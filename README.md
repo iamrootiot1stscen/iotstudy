@@ -27,4 +27,13 @@ Reference
 
 * [“아파트 ‘난방 코딩’, 이런 게 IoT 아닌가요?”](http://blog.appcenter.kr/2015/02/valvegod/)
 * [사물인터넷 비즈니스 사례 분석을 통한 사업화 전략 수립](http://www.slideshare.net/honest72/ss-47586778)
-
+* All Seen - https://allseenalliance.org/
+* OIC - https://www.iotivity.org/
+* Thread group - http://threadgroup.org/
+* IEEE P2413 - https://standards.ieee.org/develop/project/2413.html
+    * pdf - http://grouper.ieee.org/groups/2413/Intro-to-IEEE-P2413.pdf
+* IIC(Industrial Internet Consortium) - http://www.industrialinternetconsortium.org/
+* Nest - https://nest.com/
+* Z-wave - http://www.z-wave.com/
+* Apple Home kit - https://developer.apple.com/homekit/
+* Google brillo - https://developers.google.com/brillo/
