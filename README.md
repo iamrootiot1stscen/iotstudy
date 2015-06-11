@@ -11,7 +11,7 @@ History
 |:-----|:---- |:----- |:-------  |
 | 7주차 | 2015-06-05 | 경기 문화 창조 허브 | 향후 진행 내용 결정 |
 
-** 7주차 / 2015-06-05 / 3명 **
+##### 7주차 / 2015-06-05 / 3명
 
 * 향후 진행 내용
     * Step by Step으로 진행
@@ -22,18 +22,34 @@ History
     * 프로젝트 기획안은 별도 진행.
 
 
-Reference
----------
+Reference & Resources
+---------------------
 
 * [“아파트 ‘난방 코딩’, 이런 게 IoT 아닌가요?”](http://blog.appcenter.kr/2015/02/valvegod/)
 * [사물인터넷 비즈니스 사례 분석을 통한 사업화 전략 수립](http://www.slideshare.net/honest72/ss-47586778)
-* All Seen - https://allseenalliance.org/
-* OIC - https://www.iotivity.org/
-* Thread group - http://threadgroup.org/
-* IEEE P2413 - https://standards.ieee.org/develop/project/2413.html
-    * pdf - http://grouper.ieee.org/groups/2413/Intro-to-IEEE-P2413.pdf
-* IIC(Industrial Internet Consortium) - http://www.industrialinternetconsortium.org/
-* Nest - https://nest.com/
-* Z-wave - http://www.z-wave.com/
-* Apple Home kit - https://developer.apple.com/homekit/
-* Google brillo - https://developers.google.com/brillo/
+
+* Aduino
+    * mother site - http://www.arduino.cc/
+    * Arduino github - https://github.com/arduino/Arduino (source codes).
+    * Arduino getting started tutorialshttp://www.ntu.edu.sg/home/ehchua/programming/arduino/Arduino.html
+    * Oomlout - http://oomlout.com/oom.php (Arduino getting started tutorials).
+    * Sparkfun - https://www.sparkfun.com (Electronic components with datasheets).
+    
+* Raspberry Pi
+    * mother site - https://www.raspberrypi.org/
+
+Links
+-----
+* 단체
+    * All Seen - https://allseenalliance.org/
+    * OIC - https://www.iotivity.org/
+    * Thread group - http://threadgroup.org/
+    * IEEE P2413 - https://standards.ieee.org/develop/project/2413.html
+        * pdf - http://grouper.ieee.org/groups/2413/Intro-to-IEEE-P2413.pdf
+    * IIC(Industrial Internet Consortium) - http://www.industrialinternetconsortium.org/
+* Vendor
+    * Nest - https://nest.com/
+    * Z-wave - http://www.z-wave.com/
+    * Apple Home kit - https://developer.apple.com/homekit/
+    * Google brillo - https://developers.google.com/brillo/
+
