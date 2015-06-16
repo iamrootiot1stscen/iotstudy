@@ -1,8 +1,6 @@
 iamroot IoT 1st scenario team
 ==============================
 
-[TOC "float:right"]
-
     기본 내용부터 Step by Step 으로 진행하려고 합니다.
     진행과정에서, 기능들을 확장해가면서 진행할 예정입니다.
     큰 흐름은, "Sensing < Connecting < Actuating < Thinking" 입니다.
@@ -11,14 +9,12 @@ iamroot IoT 1st scenario team
     * slack : https://iamrootiot1stscen.slack.com/
     * github : https://github.com/iamrootiot1stscen/iotstudy
 
-
-
 History
 -------
 
 | week  | date      | place             | contents         |
 |:----- |:--------- |:------------------|:---------------- |
-| 8주차 | 2015-06-12 | 경기 문화 창조 허브 | 아두이노 다운 로드 및 실습 |
+| [8주차](notes/2015-06/2015-06-note.md) | 2015-06-12 | 경기 문화 창조 허브 | 아두이노 다운 로드 및 실습 |
 | 7주차 | 2015-06-05 | 경기 문화 창조 허브 | 향후 진행 내용 결정 |
 
 ### 8주차 / 2015-06-14 / 2명
@@ -63,7 +59,7 @@ Reference & Resources
 * Sparkfun - https://www.sparkfun.com (Electronic components with datasheets).
 * 아두이노 강좌 - http://studymake.tistory.com/113
 * 아두이노 / 라즈베리 강좌 및 영상 모음 - http://m.cafe.naver.com/educoding/1264
-    
+
 ### Raspberry Pi
 * mother site - https://www.raspberrypi.org/
 
