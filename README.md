@@ -7,6 +7,7 @@ iamroot IoT 1st scenario team
     아두이노 -> Rasapberry Pi 순으로 진행될 계획입니다.
     
     * slack : https://iamrootiot1stscen.slack.com/
+    * trello : https://trello.com/b/WcNS4ItQ/aduino
     * github : https://github.com/iamrootiot1stscen/iotstudy
 
 History
@@ -14,8 +15,19 @@ History
 
 | week  | date      | place             | contents         |
 |:----- |:--------- |:------------------|:---------------- |
+| [9주차](notes/2015-06/2015-06-note.md) | 2015-06-19 | 경기 문화 창조 허브 | 아두이노 실습 |
 | [8주차](notes/2015-06/2015-06-note.md) | 2015-06-12 | 경기 문화 창조 허브 | 아두이노 다운 로드 및 실습 |
 | 7주차 | 2015-06-05 | 경기 문화 창조 허브 | 향후 진행 내용 결정 |
+
+### 9주차 / 2015-06-20 / 3명
+* 장소 예약 : 보름달님
+* 아두이노 다운 로드 및 실습
+* C/C++ 기본 문법 테스트
+* LED Digital / Analog로 컨트롤
+
+* Action Item
+    * 차주 역시 실습으로 진행될 예정이며
+    * 실습 주제를 미리 준비할 것.
 
 ### 8주차 / 2015-06-14 / 2명
 * 장소 예약 : 보름달님
@@ -57,8 +69,9 @@ Reference & Resources
 * Arduino getting started tutorialshttp://www.ntu.edu.sg/home/ehchua/programming/arduino/Arduino.html
 * Oomlout - http://oomlout.com/oom.php (Arduino getting started tutorials).
 * Sparkfun - https://www.sparkfun.com (Electronic components with datasheets).
-* 아두이노 강좌 - http://studymake.tistory.com/113
-* 아두이노 / 라즈베리 강좌 및 영상 모음 - http://m.cafe.naver.com/educoding/1264
+* 아두이노 강좌
+    - http://studymake.tistory.com/113
+    - 아두이노 / 라즈베리 강좌 및 영상 모음 - http://m.cafe.naver.com/educoding/1264
 
 ### Raspberry Pi
 * mother site - https://www.raspberrypi.org/
