@@ -7,7 +7,7 @@ iamroot IoT 1st scenario team
     아두이노 -> Rasapberry Pi 순으로 진행될 계획입니다.
     
     * slack : https://iamrootiot1stscen.slack.com/
-    * trello : https://trello.com/b/WcNS4ItQ/aduino
+    * trello : https://trello.com/b/WcNS4ItQ/arduino
     * github : https://github.com/iamrootiot1stscen/iotstudy
 
 History
