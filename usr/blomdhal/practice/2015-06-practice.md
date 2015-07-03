@@ -1,3 +1,29 @@
+가변 저항값 읽기
+--------------
+
+Date : 2015-06-26
+
+![회로구성]()
+
+```
+const int PIN = A0;
+
+void setup() {
+  Serial.begin(9600);  
+}
+
+void loop() {
+  
+  Serial.println(analogRead(PIN));
+  delay(500);
+  
+}
+```
+
+
+
+***
+
 Serial 통신
 -----------
 
