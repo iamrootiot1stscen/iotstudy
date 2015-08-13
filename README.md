@@ -15,6 +15,7 @@ History
 
 | week  | date      | place             | contents         |
 |:----- |:--------- |:------------------|:---------------- |
+| [16주차]()| 2015-08-13 | 양재  | OSS 프로젝트 기술 검토 및 자료 수집 |
 | [15주차](notes/2015-08/2015-08-07-review.md)| 2015-08-07 | 경기 컨텐츠 랩  | 라즈베리파이 실습 / Node.js / BLE 기술 검토 |
 | [14주차](notes/2015-07/2015-07-24-review.md)| 2015-07-24 | 경기 문화 창조 허브 | 라즈베리파이 실습 |
 | [13주차]()| 2015-07-17 | 경기 문화 창조 허브 | 라즈베리파이 실습 |
@@ -24,6 +25,19 @@ History
 | [9주차](notes/2015-06/2015-06-note.md) | 2015-06-19 | 경기 문화 창조 허브 | 아두이노 실습 |
 | [8주차](notes/2015-06/2015-06-note.md) | 2015-06-12 | 경기 문화 창조 허브 | 아두이노 다운 로드 및 실습 |
 | 7주차 | 2015-06-05 | 경기 문화 창조 허브 | 향후 진행 내용 결정 |
+
+### 16주차 / 2015-08-13 / 1명
+* 장소 예약 : 최현이님
+* OSS 프로젝트 기술 검토 및 자료 수집
+
+* ref
+   - http://blog.gaerae.com/2015/08/how-to-turn-your-house-into-a-club.html
+   - http://www.brit.co/led-diy-projects/
+   - http://www.instructables.com/id/Bluetooth-RGB-Shelf-Lighting/
+   - http://www.instructables.com/id/Pixel-Drop-Ceiling/
+
+* Action Item
+    * 실습 주제를 미리 준비할 것.
 
 ### 15주차 / 2015-08-07 / 2명
 * 장소 예약 : 보름달님
