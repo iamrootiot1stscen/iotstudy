@@ -15,6 +15,7 @@ History
 
 | week  | date      | place             | contents         |
 |:----- |:--------- |:------------------|:---------------- |
+| [17주차]()| 2015-08-21 | 경기 문화 창조 허브  | OSS 프로젝트 기술 검토 및 정보 교환 |
 | [16주차]()| 2015-08-13 | 양재  | OSS 프로젝트 기술 검토 및 자료 수집 |
 | [15주차](notes/2015-08/2015-08-07-review.md)| 2015-08-07 | 경기 컨텐츠 랩  | 라즈베리파이 실습 / Node.js / BLE 기술 검토 |
 | [14주차](notes/2015-07/2015-07-24-review.md)| 2015-07-24 | 경기 문화 창조 허브 | 라즈베리파이 실습 |
@@ -25,6 +26,30 @@ History
 | [9주차](notes/2015-06/2015-06-note.md) | 2015-06-19 | 경기 문화 창조 허브 | 아두이노 실습 |
 | [8주차](notes/2015-06/2015-06-note.md) | 2015-06-12 | 경기 문화 창조 허브 | 아두이노 다운 로드 및 실습 |
 | 7주차 | 2015-06-05 | 경기 문화 창조 허브 | 향후 진행 내용 결정 |
+
+### 17주차 / 2015-08-21 / 2명
+* 장소 예약 : 최현이님
+* 지난 주 진행했던 내용 정보 공유
+* LED 조사 및 선정
+* Steop 1. 진행 방향 논의
+    * BLE를 이용한 LED ON
+    * Wi-Fi를 이용한 Data 전달
+* Node.js, thingspeak.com, Google chart API
+* 전반적인 Architecture, SW Architecture 논의
+* OSS 프로젝트 기술 검토 및 자료 수집
+* 차주는 휴가로 인해 스터디 휴식
+
+* ref
+   - http://blog.gaerae.com/2015/08/how-to-turn-your-house-into-a-club.html
+   - http://www.brit.co/led-diy-projects/
+   - http://www.instructables.com/id/Bluetooth-RGB-Shelf-Lighting/
+   - http://www.instructables.com/id/Pixel-Drop-Ceiling/
+   - http://bit.ly/1NzNfWh
+
+* Action Item
+    * LED 구매
+    * BLE 통신 SW 구현 및 HW 구성
+    * Wi-Fi 기능 구현
 
 ### 16주차 / 2015-08-13 / 1명
 * 장소 예약 : 최현이님
