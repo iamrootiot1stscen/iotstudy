@@ -1,4 +1,4 @@
-iamroot IoT 1st scenario team
+﻿iamroot IoT 1st scenario team
 ==============================
 
     기본 내용부터 Step by Step 으로 진행하려고 합니다.
@@ -15,6 +15,7 @@ History
 
 | week  | date      | place             | contents         |
 |:----- |:--------- |:------------------|:---------------- |
+| [21주차]()| 2015-10-02 | 경기 문화 창조 허브 | 여러가지 자료 조사 및 공유 |
 | [20주차]()| 2015-09-18 | 경기 문화 창조 허브 | Arduino 소리 데이터를 이용한 전구 On/Off|
 | [19주차]()| 2015-09-11 | 경기 문화 창조 허브 | Arduino WiFi 실습 및 진행 상황 공유|
 | [18주차](notes/2015-09/2015-09-04-meeting.md)| 2015-09-04 | 경기 문화 창조 허브  | OSS 프로젝트 일정 수립 및 기능 정의 |
@@ -29,6 +30,20 @@ History
 | [9주차](notes/2015-06/2015-06-note.md) | 2015-06-19 | 경기 문화 창조 허브 | 아두이노 실습 |
 | [8주차](notes/2015-06/2015-06-note.md) | 2015-06-12 | 경기 문화 창조 허브 | 아두이노 다운 로드 및 실습 |
 | 7주차 | 2015-06-05 | 경기 문화 창조 허브 | 향후 진행 내용 결정 |
+
+### 21주차 / 2015-10-02 / 2명
+* 장소 예약 : 최현이님
+* 실습과제 선정
+* Atmegs328 Spec 정보 공유
+* 소니가 Heating Pipe를 이용해서 Snapdragon 810의 발열 잡은 애기
+   - http://9to5google.com/2015/09/07/sony-xperia-z5-overheating/
+* FPCB
+
+
+* Action Item
+   - Arduino, Raspberry pi로 echo 서버 구현
+   - BLE Characteristics를 읽고 쓰기.
+   - LED On/Off
 
 ### 20주차 / 2015-09-18 / 2명
 * 장소 예약 : 보름달님
