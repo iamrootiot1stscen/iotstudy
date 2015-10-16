@@ -15,6 +15,7 @@ History
 
 | week  | date      | place             | contents         |
 |:----- |:--------- |:------------------|:---------------- |
+| [22주차]()| 2015-10-16 | 경기 문화 창조 허브 | Arduino Wifi, Raspberry pi Wifi, BLE Connection ing |
 | [21주차]()| 2015-10-02 | 경기 문화 창조 허브 | 여러가지 자료 조사 및 공유 |
 | [20주차]()| 2015-09-18 | 경기 문화 창조 허브 | Arduino 소리 데이터를 이용한 전구 On/Off|
 | [19주차]()| 2015-09-11 | 경기 문화 창조 허브 | Arduino WiFi 실습 및 진행 상황 공유|
@@ -30,6 +31,17 @@ History
 | [9주차](notes/2015-06/2015-06-note.md) | 2015-06-19 | 경기 문화 창조 허브 | 아두이노 실습 |
 | [8주차](notes/2015-06/2015-06-note.md) | 2015-06-12 | 경기 문화 창조 허브 | 아두이노 다운 로드 및 실습 |
 | 7주차 | 2015-06-05 | 경기 문화 창조 허브 | 향후 진행 내용 결정 |
+
+### 22주차 / 2015-10-16 / 2명
+* 장소 예약 : 최현이님
+* 실습과제 선정
+* Arnuino Wifi
+   - Wifi connection
+   - Wifi client fail
+* Raspberry pi Wifi
+   - hello_clinet
+   - hello_server
+* Window, Ubuntu wifi connection with Raspberry pi
 
 ### 21주차 / 2015-10-02 / 2명
 * 장소 예약 : 최현이님
